@@ -1,6 +1,8 @@
 # JSON XML Weather Data API
 
-# Live Working Recording
+## Live Working Recording
+
+https://github.com/amlanpatra/json-xml-weatherAPI/assets/37045880/04c27296-9a5d-492d-b26b-84cc189355ef
 
 
 ## Technologies used
